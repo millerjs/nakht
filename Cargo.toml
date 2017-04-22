@@ -1,0 +1,6 @@
+[package]
+name = "nakht"
+version = "0.1.0"
+authors = ["Joshua Miller <jsmiller@uchicago.edu>"]
+
+[dependencies]
